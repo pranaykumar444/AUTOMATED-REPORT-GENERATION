@@ -98,3 +98,8 @@ Open the generated score_report.pdf file to view the results.
 This project is simple, powerful, and easily customizable. It is ideal for automating small but time-consuming reporting tasks in both academic and professional environments.
 
 ##OUTPUT
+
+Code and output
+
+![Image](https://github.com/user-attachments/assets/91713844-138e-489c-80ca-9c471447cab3)
+
