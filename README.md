@@ -101,12 +101,13 @@ This project is simple, powerful, and easily customizable. It is ideal for autom
 
 Code and output
 
-![Image](https://github.com/user-attachments/assets/91713844-138e-489c-80ca-9c471447cab3)
+![Image](https://github.com/user-attachments/assets/6b9fc4d0-5bdf-4cca-9dfa-d2223bb2c2b7)
 
 report generated
 
-![Image](https://github.com/user-attachments/assets/a61fc566-de4c-4d2c-8f4c-18aab3e1b2a9)
+![Image](https://github.com/user-attachments/assets/4ea28474-c097-48a7-835d-9840e1e1f88f)
+
 
 report view
 
-
+![Image](https://github.com/user-attachments/assets/f8f7d36a-8738-494b-88ad-6630bad9927b)
