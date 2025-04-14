@@ -17,4 +17,5 @@ for i in range(len(df)):
     pdf.cell(200, 10, txt=row, ln=True)
 
 pdf.output("score_report.pdf")
+
 print("PDF report generated: score_report.pdf")
